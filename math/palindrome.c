@@ -1,3 +1,4 @@
+//'Sup guys, I'm in ninth grade and don't even know how to code in C, I'm learning Python yet ended up here
 /**
  * @file
  * @brief Program to identify if a number is [palindrome
